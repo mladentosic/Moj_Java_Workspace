@@ -1,0 +1,16 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		int brojac1 = 0;
+		int brojac2 = 0;
+		int brojac3 = 0;
+		
+		while(brojac1 < 101)
+		{
+			System.out.println("Interacija broj: " + brojac1);
+			brojac1 = brojac1 + 1;
+		}
+	}
+
+}
