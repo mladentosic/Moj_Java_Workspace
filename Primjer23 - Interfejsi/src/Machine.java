@@ -1,5 +1,7 @@
 public class Machine implements Info {
-     
+ /*
+  * Implementiran interfejs info i dodate njegove obje funkcije    
+  */
     private int id = 7;
      
     public void start() {
