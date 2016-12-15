@@ -1,9 +1,10 @@
+
 class Machine {
     public void start() {
         System.out.println("Masina se pokrece ...");
     }
 }
- 
+
 interface Plant {
     public void grow();
 }
@@ -17,7 +18,7 @@ public class App {
     	 * Anonimna klasa je "naslonjena" na promjenjivu machine1
     	 */
         Machine machine1 = new Machine() {
-            @Override public void start() {
+             public void start() {
                 System.out.println("Kamera slika ....");
             }
         };
