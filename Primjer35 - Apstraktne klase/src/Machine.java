@@ -1,5 +1,7 @@
 /*
- * Apstraktna klasa se definise kljucnom rijeci abstract
+ * Apstraktna klasa se definise kljucnom rijeci abstract i od njih se ne prave objekti
+ * Predvidjene su samo da se nasljedjuju.
+ * Abstract je u stvari restrikcija
  */
 public abstract class Machine {
 	
