@@ -1,0 +1,10 @@
+
+public enum DanUSedmici {
+	PONEDJELJAK,
+	UTORAK,
+	SRIJEDA,
+	CETVRTAK,
+	PETAK,
+	SUBOTA,
+	NEDELJA;
+}
